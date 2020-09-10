@@ -1,0 +1,12 @@
+{
+  "posts": [
+    { "value1": 1, "value2": 10, "value3": 4 },
+    { "value1": 5, "value2": 60, "value3": 3 },
+    { "value1": 5, "value2": 22, "value3": 5 },
+    { "value1": 7, "value2": 33, "value3": 9 },
+    { "value1": 56, "value2": 22, "value3": 0 },
+    { "value1": 1, "value2": 45, "value3": 4 },
+    { "value1": 5, "value2": 22, "value3": 3 },
+    { "value1": 52, "value2": 19, "value3": 5 }
+  ]
+}

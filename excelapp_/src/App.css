@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  align-items: center;
+  display: flex;
+  width: 100%;
+}
+table {
+  border-collapse: collapse;
+  width: 80%;
+}
+th,
+td {
+  padding: 5px;
+  text-align: center;
+  border: 1px solid #ddd;
+}
+
+th {
+  background-color: #0c1a0d;
+  color: white;
+}
+tr {
+  background-color: white;
+}
+input {
+  border: none;
+  text-align: center;
+  width: 100%;
+
+  background: #07060600;
+}
+input:focus {
+  outline: none;
+  border: none;
+  border-bottom: 2px solid #ff2058ab;
+}
